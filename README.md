@@ -38,7 +38,7 @@ The current prototype supports the main stages of wearable eye tracking: camera 
 
 <p align="center">
   &nbsp;&nbsp;
-  <img src="assets/fixein-prototype1.png" alt="FIXEIN prototype 1" width="80%">
+  <img src="assets/fixein-prototype1.png" alt="FIXEIN prototype 1" width="60%">
   &nbsp;&nbsp;
 </p>
 
