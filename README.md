@@ -37,9 +37,9 @@ For pupil detection, FIXEIN uses **Retro-Oriented Mind (ROM)** together with **P
 The current prototype supports the main stages of wearable eye tracking: camera capture, eye-camera setup, pupil detection, automatic ROM configuration, detection-quality monitoring, nine-point calibration, 2D gaze estimation and real-time gaze visualization.
 
 <p align="center">
-  <img src="assets/fixein-prototype1.png" alt="FIXEIN prototype 1" width="47%">
   &nbsp;&nbsp;
-  <img src="assets/fixein-prototype2.png" alt="FIXEIN prototype 2" width="47%">
+  <img src="assets/fixein-prototype1.png" alt="FIXEIN prototype 1" width="80%">
+  &nbsp;&nbsp;
 </p>
 
 <br/> <br/> 
